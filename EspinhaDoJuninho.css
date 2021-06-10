@@ -1,0 +1,110 @@
+
+        body{
+            background-color: turquoise;
+        }
+        
+        h1{
+            text-align: center;
+            color: red;
+            font-family: monospace;
+            background-color: white;
+        }
+        
+        #rosto{
+            background-color: antiquewhite;
+            border: none;
+            width: 800px;
+            height: 800px;
+            border-radius: 50%;
+            display: block;
+            margin-left: auto;
+            margin-right: auto; 
+            position: relative;
+        }
+        
+        #olho_d{
+            background-color: black;
+            border-color: white;
+            border-width: 35px;
+            border-radius: 50%;
+            border-style: solid;
+            padding: 10px;
+            width: 30px;
+            height: 30px;
+            position: absolute;
+            top: 300px;
+            right: 220px;
+            
+        }
+        
+        #olho_e{
+            background-color: black;
+            border-color: white;
+            border-width: 35px;
+            border-radius: 50%;
+            border-style: solid;
+            padding: 10px;
+            width: 30px;
+            height: 30px;
+            position: absolute;
+            top: 300px;
+            left: 220px;
+        }
+    
+        .espinha {
+            background-color: yellow;
+            border-color: red;
+            border-style: solid;
+            border-width: 12px;
+            padding: 6px;            
+            border-radius: 50%;
+            position: absolute;
+        }
+        
+        #boca {
+            width: 300px;
+            height: 100px;
+            height: 100px;
+            border-radius: 50% 50% 0 0;
+            background: white;
+            position: absolute;
+            top: 580px;
+            left: 250px;
+            border-color: black;
+            border: solid;
+            
+        }
+        
+        #bone{
+            width: 750px;
+            height: 250px;
+            border-radius: 50% 50% 0 0;
+            background-color: chocolate;
+            position: absolute;
+            left: 25px;   
+        }
+        
+        #espinha1{
+            top: 325px;
+            left: 125px;
+        }
+        
+        #espinha2{
+            top: 600px;
+            left: 175px;
+        }
+        
+        #espinha3{
+            top: 500px;
+            left: 275px;
+        }
+        
+        #espinha4{
+            top: 425px;
+            right: 180px;
+        }
+        
+        #espinha5{
+            top: 705px;
+            right: 250px;
+        }
